@@ -1,4 +1,4 @@
-# iTerm2-Custom-Theme
+# iTerm2 Custom Theme
 
 ## Instructions
 
